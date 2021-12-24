@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @vpnshopee..
+- 🌱 I’m currently learning .....
+<p align="center">
+<img src="https://raw.githubusercontent.com/shopeevpn/inject-data/main/raw/VPNSHOPEE-2.jpg">
+   </p>
+<h1 align="center"> VPS AutoScript Xray, V2ray, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+
